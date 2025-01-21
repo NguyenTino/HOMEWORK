@@ -22,8 +22,6 @@ public class ex11 {
                 min = number.get(i);
             }
         }
-
-        // Hiển thị kết quả
         System.out.println("Max: " + max);
         System.out.println("Min: " + min);
     }
